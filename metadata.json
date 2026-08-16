@@ -1,0 +1,6 @@
+{
+  "name": "Recruitment Screening Assistant",
+  "description": "AI-powered candidate screening and resume evaluation platform with strict qualification scoring, requirement analysis, and candidate matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
